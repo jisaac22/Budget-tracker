@@ -1,0 +1,7 @@
+const FILES_TO_CACHE = [
+  "/",
+  "/index.html",
+  "/index.js",
+  "/style.css",
+  "/manifest.webmanifest"
+];
